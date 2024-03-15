@@ -15,12 +15,12 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 #Program to find the solution for the given linear equations.
-#Developed by: sivakumar
-#RegisterNumber:23013501
-import numpy as np
-A=[[1,3],[2,5]]
-b=np.array ([5,-3])
-c=np.linalg.solve(A,b)
+#Developed by: sivakumar\n
+#RegisterNumber:23013501\n
+import numpy as np\n
+A=[[1,3],[2,5]]\n
+b=np.array ([5,-3])\n
+c=np.linalg.solve(A,b)\n
 print(c)
 
 ## Output:
